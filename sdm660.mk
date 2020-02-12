@@ -384,6 +384,7 @@ PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-service
 
 PRODUCT_DEXPREOPT_SPEED_APPS += \
+    Launcher3QuickStep \
     Settings \
     SystemUI
 
