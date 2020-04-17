@@ -81,6 +81,7 @@ vendor.audio.adm.buffering.ms=6
 
 # Bluetooth
 vendor.qcom.bluetooth.soc=cherokee
+persist.vendor.service.bdroid.sibs=false
 
 # Camera
 persist.vendor.camera.preview.ubwc=0
