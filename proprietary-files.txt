@@ -1341,6 +1341,12 @@ vendor/lib64/libgpustats.so|b7f9e1ee3f0d86e87d96db55404f3507db8cac6f
 vendor/lib/libqti-perfd-client.so|08b0cd20dbc79645ee73ea4fdc5221d41d09588a
 vendor/lib64/libqti-perfd-client.so|cd3def30b6d444430ea8cea8956623d9d165eb7a
 
+# Perf - From LA.UM.8.6.2.r1-08600-89xx.0
+vendor/lib64/libadaptlaunch.so|cf784401fc827e5195d595a6d855ec89ea8c22bf
+vendor/lib64/libappclassifier.so|d5956c2dc9344ddcca0e78d84c393320c2e0cc97
+vendor/lib64/libgameoptfeature.so|b135489d253f0a8d7884238fe7887eb85b87745d 
+vendor/lib64/liblearningmodule.so|a9390d0ef1ec82c97a61035ec686c1d094fdca98
+
 # Peripheral manager - from jasmine V11.0.28.0.QDIMIXM
 vendor/bin/pm-proxy|bc4e972e3fe595b973197efe5114da8ff4339a59
 vendor/bin/pm-service|b0f77edfe04a3cc6284738196c0044e676d5eeb3
